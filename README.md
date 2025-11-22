@@ -1,7 +1,4 @@
 # PostgreSQL-Local-Setup
-
-Perfect — here’s a **complete GitHub-ready documentation** for setting up **PostgreSQL locally via CMD**, connecting it to **Node.js/Express**, and optionally using **DBeaver** as a GUI for easier management. You can drop this straight into your repo.
-
 ---
 
 # **Local PostgreSQL Setup (Windows CMD + DBeaver)**
