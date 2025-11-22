@@ -1,7 +1,5 @@
-# PostgreSQL-Local-Setup
----
-
 # **Local PostgreSQL Setup (Windows CMD + DBeaver)**
+---
 
 This guide sets up **PostgreSQL locally** using Docker, connects it to your Node.js/Express app, and optionally uses **DBeaver** as a GUI.
 
